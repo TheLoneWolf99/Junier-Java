@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "Java_dc9eb739"
+        },
+        {
+            "type": "lldb",
+            "request": "attach",
+            "name": "Attach",
+            "program": "${workspaceFolder}/<program>"
+        }
+    ]
+}
